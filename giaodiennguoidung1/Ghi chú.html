@@ -1,0 +1,33 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title></title>
+</head>
+<body>
+    Web.config:
+    Phân biệt tên file và đuôi bằng dấu .
+    Ví dụ CT-14.10.25.cs - viết kiểu này sai phải viết không dấu, chỉ dùng .cs để phân biệt đuôi
+    Không được khai báo biến có kí tự có khoảng trống
+    Ví dụ CT 14 là sai, phải viết CT14
+    Phần name đặt tên là gì cũng được, nhưng phải nhớ cho nó trùng nhau trong Basepage.cs với web.config để nó có thể lấy thông tin từ sql -> web.config -> basepage.cs -> các trang con kế thừa như daolienket hay quanlilienket
+
+    Quanlilienket.aspx:
+    Link:
+    HeaderText: Điền tên trường
+    DataField: Điền tên trường trong CSDL để hiển thị trên gridview, ví dụ Link, Anh
+    BoundField: có tác dụng lấy dữ liệu để đổ vào, không cho phép người dùng nhấn vào trường này
+    ItemStyle:
+    Width: 45%
+    Anh:
+    ImageFile:
+    HeaderText: Ảnh liên kết
+    DataImageUrlField: Anh
+    DataImageUrlFormatS : ../{0}
+    ItemStyle:
+    Width: 25%
+    Tắt auto gridview
+
+
+</body>
+</html>

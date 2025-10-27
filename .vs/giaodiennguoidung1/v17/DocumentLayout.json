@@ -3,19 +3,7 @@
   "WorkspaceRootPath": "D:\\giaodiennguoidung1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|d:\\giaodiennguoidung1\\giaodiennguoidung1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|solutionrelative:giaodiennguoidung1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|D:\\giaodiennguoidung1\\giaodiennguoidung1\\quantriht.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|solutionrelative:giaodiennguoidung1\\quantriht.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|D:\\giaodiennguoidung1\\giaodiennguoidung1\\quantriht.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
-      "RelativeMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|solutionrelative:giaodiennguoidung1\\quantriht.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|D:\\giaodiennguoidung1\\giaodiennguoidung1\\quanlilienket.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|d:\\giaodiennguoidung1\\giaodiennguoidung1\\quanlilienket.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|solutionrelative:giaodiennguoidung1\\quanlilienket.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -31,24 +19,44 @@
       "RelativeMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|solutionrelative:giaodiennguoidung1\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|D:\\giaodiennguoidung1\\giaodiennguoidung1\\quanlilienket.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|solutionrelative:giaodiennguoidung1\\quanlilienket.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|D:\\giaodiennguoidung1\\giaodiennguoidung1\\quanlitin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|solutionrelative:giaodiennguoidung1\\quanlitin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|D:\\giaodiennguoidung1\\giaodiennguoidung1\\quanlitin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|solutionrelative:giaodiennguoidung1\\quanlitin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+      "AbsoluteMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|D:\\giaodiennguoidung1\\giaodiennguoidung1\\sua_lien_ket.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|solutionrelative:giaodiennguoidung1\\sua_lien_ket.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|D:\\giaodiennguoidung1\\giaodiennguoidung1\\quantriht.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|solutionrelative:giaodiennguoidung1\\quantriht.master.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|D:\\giaodiennguoidung1\\giaodiennguoidung1\\sua_lien_ket.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|solutionrelative:giaodiennguoidung1\\sua_lien_ket.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|D:\\giaodiennguoidung1\\giaodiennguoidung1\\dangnhap.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|solutionrelative:giaodiennguoidung1\\dangnhap.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|D:\\giaodiennguoidung1\\giaodiennguoidung1\\quanlitin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|solutionrelative:giaodiennguoidung1\\quanlitin.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|D:\\giaodiennguoidung1\\giaodiennguoidung1\\quantriht.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|solutionrelative:giaodiennguoidung1\\quantriht.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|D:\\giaodiennguoidung1\\giaodiennguoidung1\\quanlilienket.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|solutionrelative:giaodiennguoidung1\\quanlilienket.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|D:\\giaodiennguoidung1\\giaodiennguoidung1\\dangnhap.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|solutionrelative:giaodiennguoidung1\\dangnhap.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|D:\\giaodiennguoidung1\\giaodiennguoidung1\\quanlitin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|solutionrelative:giaodiennguoidung1\\quanlitin.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|D:\\giaodiennguoidung1\\giaodiennguoidung1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{84422302-D531-AD78-A405-70B7790BB0E3}|D:\\giaodiennguoidung1\\giaodiennguoidung1|solutionrelative:giaodiennguoidung1\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,22 +66,47 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Sua_Lien_Ket.aspx.cs",
+              "DocumentMoniker": "D:\\giaodiennguoidung1\\giaodiennguoidung1\\Sua_Lien_Ket.aspx.cs",
+              "RelativeDocumentMoniker": "giaodiennguoidung1\\Sua_Lien_Ket.aspx.cs",
+              "ToolTip": "D:\\giaodiennguoidung1\\giaodiennguoidung1\\Sua_Lien_Ket.aspx.cs",
+              "RelativeToolTip": "giaodiennguoidung1\\Sua_Lien_Ket.aspx.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAiwGUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T13:39:05.368Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "Sua_Lien_Ket.aspx",
+              "DocumentMoniker": "D:\\giaodiennguoidung1\\giaodiennguoidung1\\Sua_Lien_Ket.aspx",
+              "RelativeDocumentMoniker": "giaodiennguoidung1\\Sua_Lien_Ket.aspx",
+              "ToolTip": "D:\\giaodiennguoidung1\\giaodiennguoidung1\\Sua_Lien_Ket.aspx",
+              "RelativeToolTip": "giaodiennguoidung1\\Sua_Lien_Ket.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-10-22T13:36:54.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "QuanLiLienKet.aspx",
               "DocumentMoniker": "D:\\giaodiennguoidung1\\giaodiennguoidung1\\QuanLiLienKet.aspx",
               "RelativeDocumentMoniker": "giaodiennguoidung1\\QuanLiLienKet.aspx",
               "ToolTip": "D:\\giaodiennguoidung1\\giaodiennguoidung1\\QuanLiLienKet.aspx",
               "RelativeToolTip": "giaodiennguoidung1\\QuanLiLienKet.aspx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-09-30T07:43:40.155Z"
+              "WhenOpened": "2025-09-30T07:43:40.155Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 13,
               "Title": "Default.aspx",
               "DocumentMoniker": "D:\\giaodiennguoidung1\\giaodiennguoidung1\\Default.aspx",
               "RelativeDocumentMoniker": "giaodiennguoidung1\\Default.aspx",
@@ -81,73 +114,73 @@
               "RelativeToolTip": "giaodiennguoidung1\\Default.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-09-30T07:57:03.637Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T07:57:03.637Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "QuanLiLienKet.aspx.cs",
               "DocumentMoniker": "D:\\giaodiennguoidung1\\giaodiennguoidung1\\QuanLiLienKet.aspx.cs",
               "RelativeDocumentMoniker": "giaodiennguoidung1\\QuanLiLienKet.aspx.cs",
               "ToolTip": "D:\\giaodiennguoidung1\\giaodiennguoidung1\\QuanLiLienKet.aspx.cs",
               "RelativeToolTip": "giaodiennguoidung1\\QuanLiLienKet.aspx.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-30T07:44:28.373Z"
+              "WhenOpened": "2025-09-30T07:44:28.373Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "BasePage.cs",
               "DocumentMoniker": "D:\\giaodiennguoidung1\\giaodiennguoidung1\\App_Code\\BasePage.cs",
               "RelativeDocumentMoniker": "giaodiennguoidung1\\App_Code\\BasePage.cs",
               "ToolTip": "D:\\giaodiennguoidung1\\giaodiennguoidung1\\App_Code\\BasePage.cs",
               "RelativeToolTip": "giaodiennguoidung1\\App_Code\\BasePage.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T06:46:28.62Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "dao_Lien_Ket.cs",
               "DocumentMoniker": "D:\\giaodiennguoidung1\\giaodiennguoidung1\\App_Code\\dao_Lien_Ket.cs",
               "RelativeDocumentMoniker": "giaodiennguoidung1\\App_Code\\dao_Lien_Ket.cs",
               "ToolTip": "D:\\giaodiennguoidung1\\giaodiennguoidung1\\App_Code\\dao_Lien_Ket.cs",
               "RelativeToolTip": "giaodiennguoidung1\\App_Code\\dao_Lien_Ket.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAADcAAAAAAAAAAAAkwEgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-14T07:45:42.979Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Web.config",
               "DocumentMoniker": "D:\\giaodiennguoidung1\\giaodiennguoidung1\\Web.config",
               "RelativeDocumentMoniker": "giaodiennguoidung1\\Web.config",
               "ToolTip": "D:\\giaodiennguoidung1\\giaodiennguoidung1\\Web.config",
               "RelativeToolTip": "giaodiennguoidung1\\Web.config",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
               "WhenOpened": "2025-10-14T06:36:15.664Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "QuantriHT.master",
               "DocumentMoniker": "D:\\giaodiennguoidung1\\giaodiennguoidung1\\QuantriHT.master",
               "RelativeDocumentMoniker": "giaodiennguoidung1\\QuantriHT.master",
               "ToolTip": "D:\\giaodiennguoidung1\\giaodiennguoidung1\\QuantriHT.master",
               "RelativeToolTip": "giaodiennguoidung1\\QuantriHT.master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2025-09-30T07:12:42.793Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-30T07:12:42.793Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "QuanliTin.aspx",
               "DocumentMoniker": "D:\\giaodiennguoidung1\\giaodiennguoidung1\\QuanliTin.aspx",
               "RelativeDocumentMoniker": "giaodiennguoidung1\\QuanliTin.aspx",
@@ -159,19 +192,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "dangnhap.aspx.cs",
               "DocumentMoniker": "D:\\giaodiennguoidung1\\giaodiennguoidung1\\dangnhap.aspx.cs",
               "RelativeDocumentMoniker": "giaodiennguoidung1\\dangnhap.aspx.cs",
               "ToolTip": "D:\\giaodiennguoidung1\\giaodiennguoidung1\\dangnhap.aspx.cs",
               "RelativeToolTip": "giaodiennguoidung1\\dangnhap.aspx.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T08:04:09.307Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "dangnhap.aspx",
               "DocumentMoniker": "D:\\giaodiennguoidung1\\giaodiennguoidung1\\dangnhap.aspx",
               "RelativeDocumentMoniker": "giaodiennguoidung1\\dangnhap.aspx",
@@ -183,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "QuanliTin.aspx.cs",
               "DocumentMoniker": "D:\\giaodiennguoidung1\\giaodiennguoidung1\\QuanliTin.aspx.cs",
               "RelativeDocumentMoniker": "giaodiennguoidung1\\QuanliTin.aspx.cs",
@@ -195,13 +228,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "QuantriHT.master.cs",
               "DocumentMoniker": "D:\\giaodiennguoidung1\\giaodiennguoidung1\\QuantriHT.master.cs",
               "RelativeDocumentMoniker": "giaodiennguoidung1\\QuantriHT.master.cs",
               "ToolTip": "D:\\giaodiennguoidung1\\giaodiennguoidung1\\QuantriHT.master.cs",
               "RelativeToolTip": "giaodiennguoidung1\\QuantriHT.master.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-30T08:11:57.908Z"
             }

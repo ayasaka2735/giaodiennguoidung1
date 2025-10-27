@@ -5,7 +5,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
     <h1>Quản lí Liên kết</h1>
 
-    <asp:GridView ID="grv_LienKet" DataKeyNames = "ID_LienKet" runat="server" AutoGenerateColumns="False" CellPadding="4" ForeColor="#333333" GridLines="None" OnRowDeleting="grv_LienKet_RowDeleting" >
+    <asp:GridView ID="grv_LienKet" DataKeyNames = "ID_LienKet" runat="server" AutoGenerateColumns="False" CellPadding="4" ForeColor="#333333" GridLines="None" OnRowDeleting="grv_LienKet_RowDeleting" OnRowEditing="grv_LienKet_RowEditing" >
         <AlternatingRowStyle BackColor="White" ForeColor="#284775" />
         <Columns>
 
@@ -42,7 +42,18 @@
         <SortedDescendingCellStyle BackColor="#FFFDF8" />
         <SortedDescendingHeaderStyle BackColor="#6F8DAE" />
     </asp:GridView>
-    <div> </div>
+    <div> Thêm mới<br />
+        Liên kết&nbsp;
+        <asp:TextBox ID="txt_link" runat="server"></asp:TextBox>
+        <br />
+        Ảnh&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <asp:FileUpload ID="ful_anh" runat="server" /> <br />
+
+        <asp:Label ID="lb_ThongBao" runat="server" ForeColor="Red"></asp:Label> <br />
+
+        <asp:Button ID="btn_Themmoi" runat="server" Text="Thêm mới" OnClick="btn_Themmoi_Click" /> &nbsp;&nbsp;
+        <asp:Button ID="btn_Lamlai" runat="server" Text="Làm lại" />
+    </div>
 
 </asp:Content>
 
