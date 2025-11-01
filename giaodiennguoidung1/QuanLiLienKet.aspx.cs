@@ -103,6 +103,7 @@ public partial class QuanLiLienKet : BasePage
     protected void grv_LienKet_RowEditing(object sender, GridViewEditEventArgs e)
     {
         int ID_Lien_Ket = Convert.ToInt32(grv_LienKet.DataKeys[e.NewEditIndex].Value.ToString());
-        Response.Redirect("Sua_Lien_Ket.aspx?ID_Lien_Ket=" + ID_Lien_Ket);
+        //Response.Redirect("Sua_Lien_Ket.aspx?ID_Lien_Ket=" + ID_Lien_Ket);
+        Response.Redirect("ChitietLK.aspx?ID_Lien_Ket=" + ID_Lien_Ket);
     }
 }

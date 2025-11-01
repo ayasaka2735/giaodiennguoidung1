@@ -71,6 +71,30 @@ public void Xoa_Lien_Ket(int ID_Lien_Ket)
         }
     }
 
+    public DataSet ChiTiet_LK(int ID_Lien_Ket)
+    {
+        try
+        {
+            return SqlDataAccess.ExecuteDataset(Connection, "sp_ChiTiet_LK", ID_Lien_Ket);
+        }
+        catch (Exception ex)
+        {
+
+            throw ex;
+        }
+    }
+    public void Sua_Lien_Ket(int ID_Lien_Ket, string Anh, string Link)
+    {
+        try
+        {
+            SqlDataAccess.ExecuteNonQuery(Connection, "sp_Sua_Lien_Ket", ID_Lien_Ket, Anh, Link);
+        }
+        catch (Exception ex)
+        {
+
+            throw ex;
+        }
+    }
     public dao_Lien_Ket()
     {
         //
