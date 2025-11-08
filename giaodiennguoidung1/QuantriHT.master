@@ -54,6 +54,7 @@
             <tr>
                 <td class="auto-style1" colspan="3" style="background-color: #66FFFF">Banner</td>
             </tr>
+
             <tr>
                 <td class="auto-style7"></td>
                 <td class="auto-style8"></td>
@@ -61,16 +62,28 @@
                     <asp:LinkButton ID="lkb_dangxuat" runat="server" ForeColor="#3333FF" OnClick="lkb_dangxuat_Click">Đăng xuất</asp:LinkButton>
                     </strong></td>
             </tr>
+
             <tr>
-                <td class="auto-style4"><a href = "QuanliTin.aspx">Quản lí Tin tức</a></td>
+                <td class="auto-style4"><a href = "ThemTin.aspx">Quản lí Tin tức</a>
+                <ul>
+                    <li>
+                        <a href = "ThemTin.aspx">Thêm mới tin tức</a> <br />
+                        <a href = "QuanLiTin.aspx">Danh sách tin tức</a>
+                    </li>
+                </ul>
+                </td>
+
                 <td colspan="2" rowspan="3">
         <asp:ContentPlaceHolder id="ContentPlaceHolder1" runat="server">        
         </asp:ContentPlaceHolder>
                 </td>
+
             </tr>
+
             <tr>
                 <td class="auto-style4"><a href = "Quanlilienket.aspx">Quản lí Liên kết</a></td>
             </tr>
+
             <tr>
                 <td class="auto-style3">&nbsp;</td>
             </tr>

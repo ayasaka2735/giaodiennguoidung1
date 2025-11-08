@@ -1,0 +1,2 @@
+-- 📝 Ghi chú: Reset IDENTITY về 0 (ID kế tiếp sẽ là 1) DBCC CHECKIDENT ('TinTuc', RESEED, 0); 
+-- 📝 Reset IDENTITY theo giá trị cao nhất hiện có DBCC CHECKIDENT ('TinTuc', RESEED);

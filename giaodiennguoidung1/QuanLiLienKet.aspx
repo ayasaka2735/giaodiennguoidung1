@@ -5,7 +5,7 @@
 <asp:Content ID="Content2" ContentPlaceHolderID="ContentPlaceHolder1" Runat="Server">
     <h1>Quản lí Liên kết</h1>
 
-    <asp:GridView ID="grv_LienKet" DataKeyNames = "ID_LienKet" runat="server" AutoGenerateColumns="False" CellPadding="4" ForeColor="#333333" GridLines="None" OnRowDeleting="grv_LienKet_RowDeleting" OnRowEditing="grv_LienKet_RowEditing" >
+    <asp:GridView ID="grv_LienKet" DataKeyNames = "ID_LienKet" runat="server" AutoGenerateColumns="False" CellPadding="4" ForeColor="#333333" GridLines="None" OnRowDeleting="grv_LienKet_RowDeleting" OnRowEditing="grv_LienKet_RowEditing" OnSelectedIndexChanged="grv_LienKet_SelectedIndexChanged" >
         <AlternatingRowStyle BackColor="White" ForeColor="#284775" />
         <Columns>
 
